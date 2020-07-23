@@ -1,7 +1,5 @@
 build/
 coverage/
-dist/
-lib/
 lib/bundle.js*
 node_modules/
 dash_daq/metadata.json
